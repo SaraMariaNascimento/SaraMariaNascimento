@@ -1,7 +1,7 @@
 ### Olá!! 👋
 
 
-- 🔭 Me especializando na parte Front-End.
+- 🔭 Me especializando em Front-End.
 - 🌱 Estudando React.
 
 <div align="center">
