@@ -2,7 +2,7 @@
 
 
 - 🔭 Me especializando em Front-End.
-- 🌱 Estudando React.
+- 🌱 Estudando Reactjs.
 
 <div align="center">
   <a href="https://github.com/SaraMariaNascimento">
