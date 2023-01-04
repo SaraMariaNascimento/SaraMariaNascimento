@@ -1,8 +1,7 @@
 ### Olá!! 👋
 
 
-- 🔭 Me especializando em Front-End.
-- 🌱 Estudando Reactjs.
+- 🔭 Front-End developer.
 
 <div align="center">
   <a href="https://github.com/SaraMariaNascimento">
